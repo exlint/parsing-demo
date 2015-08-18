@@ -1,0 +1,2 @@
+defmodule Exlint do
+end
